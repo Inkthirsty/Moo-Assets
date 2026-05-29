@@ -1,892 +1,606 @@
-# Moo Assets Catalog
+## Skins
 
-Generated: 2026-05-29 13:37:35
+**1**
 
-## Ace
 
-**Default** - ![Ace_Default](assets/Ace_Default.png)
+**2**
 
-**Highland** - ![Ace_Highland](assets/Ace_Highland.png)
 
-**Semi-Fluff** - ![Ace_Semi-Fluff](assets/Ace_Semi-Fluff.png)
+**3**
 
-**Tall** - ![Ace_Tall](assets/Ace_Tall.png)
 
-**Tall Semi-Fluff** - ![Ace_Tall Semi-Fluff](assets/Ace_Tall Semi-Fluff.png)
+**4**
 
-## Alien
 
-**Unique** - ![Alien](assets/Alien.png)
+**5**
 
-## Amethyst
 
-**Default** - ![Amethyst_Default](assets/Amethyst_Default.png)
+**6**
 
-**Highland** - ![Amethyst_Highland](assets/Amethyst_Highland.png)
 
-**Semi-Fluff** - ![Amethyst_Semi-Fluff](assets/Amethyst_Semi-Fluff.png)
+**7**
 
-**Tall** - ![Amethyst_Tall](assets/Amethyst_Tall.png)
 
-**Tall Semi-Fluff** - ![Amethyst_Tall Semi-Fluff](assets/Amethyst_Tall Semi-Fluff.png)
+**8**
 
-## Angel
 
-**Unique** - ![Angel](assets/Angel.png)
+**9**
 
-## Apple
 
-**Default** - ![Apple_Default](assets/Apple_Default.png)
+**10**
 
-**Highland** - ![Apple_Highland](assets/Apple_Highland.png)
 
-**Semi-Fluff** - ![Apple_Semi-Fluff](assets/Apple_Semi-Fluff.png)
+**11**
 
-**Tall** - ![Apple_Tall](assets/Apple_Tall.png)
 
-**Tall Semi-Fluff** - ![Apple_Tall Semi-Fluff](assets/Apple_Tall Semi-Fluff.png)
+**12**
 
-## Apple (Legacy)
 
-**Default** - ![Apple (Legacy)_Default](assets/Apple (Legacy)_Default.png)
+**13**
 
-**Highland** - ![Apple (Legacy)_Highland](assets/Apple (Legacy)_Highland.png)
 
-**Semi-Fluff** - ![Apple (Legacy)_Semi-Fluff](assets/Apple (Legacy)_Semi-Fluff.png)
+**14**
 
-**Tall** - ![Apple (Legacy)_Tall](assets/Apple (Legacy)_Tall.png)
 
-**Tall Semi-Fluff** - ![Apple (Legacy)_Tall Semi-Fluff](assets/Apple (Legacy)_Tall Semi-Fluff.png)
+**15**
 
-## Aquamarine
 
-**Default** - ![Aquamarine_Default](assets/Aquamarine_Default.png)
+**16**
 
-**Highland** - ![Aquamarine_Highland](assets/Aquamarine_Highland.png)
 
-**Semi-Fluff** - ![Aquamarine_Semi-Fluff](assets/Aquamarine_Semi-Fluff.png)
+**17**
 
-**Tall** - ![Aquamarine_Tall](assets/Aquamarine_Tall.png)
 
-**Tall Semi-Fluff** - ![Aquamarine_Tall Semi-Fluff](assets/Aquamarine_Tall Semi-Fluff.png)
+**18**
 
-## Aro
 
-**Default** - ![Aro_Default](assets/Aro_Default.png)
+**19**
 
-**Highland** - ![Aro_Highland](assets/Aro_Highland.png)
 
-**Semi-Fluff** - ![Aro_Semi-Fluff](assets/Aro_Semi-Fluff.png)
+**20**
 
-**Tall** - ![Aro_Tall](assets/Aro_Tall.png)
 
-**Tall Semi-Fluff** - ![Aro_Tall Semi-Fluff](assets/Aro_Tall Semi-Fluff.png)
+**21**
 
-## Banana
 
-**Default** - ![Banana_Default](assets/Banana_Default.png)
+**22**
 
-**Highland** - ![Banana_Highland](assets/Banana_Highland.png)
 
-**Semi-Fluff** - ![Banana_Semi-Fluff](assets/Banana_Semi-Fluff.png)
+**23**
 
-**Tall** - ![Banana_Tall](assets/Banana_Tall.png)
 
-**Tall Semi-Fluff** - ![Banana_Tall Semi-Fluff](assets/Banana_Tall Semi-Fluff.png)
+**24**
 
-## Banana (Legacy)
 
-**Default** - ![Banana (Legacy)_Default](assets/Banana (Legacy)_Default.png)
+**25**
 
-**Highland** - ![Banana (Legacy)_Highland](assets/Banana (Legacy)_Highland.png)
 
-**Semi-Fluff** - ![Banana (Legacy)_Semi-Fluff](assets/Banana (Legacy)_Semi-Fluff.png)
+**26**
 
-**Tall** - ![Banana (Legacy)_Tall](assets/Banana (Legacy)_Tall.png)
 
-**Tall Semi-Fluff** - ![Banana (Legacy)_Tall Semi-Fluff](assets/Banana (Legacy)_Tall Semi-Fluff.png)
+**27**
 
-## Bee
 
-**Default** - ![Bee_Default](assets/Bee_Default.png)
+**28**
 
-**Highland** - ![Bee_Highland](assets/Bee_Highland.png)
 
-**Semi-Fluff** - ![Bee_Semi-Fluff](assets/Bee_Semi-Fluff.png)
+**29**
 
-**Tall** - ![Bee_Tall](assets/Bee_Tall.png)
 
-**Tall Semi-Fluff** - ![Bee_Tall Semi-Fluff](assets/Bee_Tall Semi-Fluff.png)
+**30**
 
-## Bi
 
-**Default** - ![Bi_Default](assets/Bi_Default.png)
+**31**
 
-**Highland** - ![Bi_Highland](assets/Bi_Highland.png)
 
-**Semi-Fluff** - ![Bi_Semi-Fluff](assets/Bi_Semi-Fluff.png)
+**32**
 
-**Tall** - ![Bi_Tall](assets/Bi_Tall.png)
 
-**Tall Semi-Fluff** - ![Bi_Tall Semi-Fluff](assets/Bi_Tall Semi-Fluff.png)
+**33**
 
-## Blackberry
 
-**Default** - ![Blackberry_Default](assets/Blackberry_Default.png)
+**34**
 
-**Highland** - ![Blackberry_Highland](assets/Blackberry_Highland.png)
 
-**Semi-Fluff** - ![Blackberry_Semi-Fluff](assets/Blackberry_Semi-Fluff.png)
+**35**
 
-**Tall** - ![Blackberry_Tall](assets/Blackberry_Tall.png)
 
-**Tall Semi-Fluff** - ![Blackberry_Tall Semi-Fluff](assets/Blackberry_Tall Semi-Fluff.png)
+**36**
 
-## Blackberry (Legacy)
 
-**Default** - ![Blackberry (Legacy)_Default](assets/Blackberry (Legacy)_Default.png)
+**37**
 
-**Highland** - ![Blackberry (Legacy)_Highland](assets/Blackberry (Legacy)_Highland.png)
 
-**Semi-Fluff** - ![Blackberry (Legacy)_Semi-Fluff](assets/Blackberry (Legacy)_Semi-Fluff.png)
+**38**
 
-**Tall** - ![Blackberry (Legacy)_Tall](assets/Blackberry (Legacy)_Tall.png)
 
-**Tall Semi-Fluff** - ![Blackberry (Legacy)_Tall Semi-Fluff](assets/Blackberry (Legacy)_Tall Semi-Fluff.png)
+**39**
 
-## Blueberry
 
-**Default** - ![Blueberry_Default](assets/Blueberry_Default.png)
+**40**
 
-**Highland** - ![Blueberry_Highland](assets/Blueberry_Highland.png)
 
-**Semi-Fluff** - ![Blueberry_Semi-Fluff](assets/Blueberry_Semi-Fluff.png)
+**41**
 
-**Tall** - ![Blueberry_Tall](assets/Blueberry_Tall.png)
 
-**Tall Semi-Fluff** - ![Blueberry_Tall Semi-Fluff](assets/Blueberry_Tall Semi-Fluff.png)
+**42**
 
-## Blueberry (Legacy)
 
-**Default** - ![Blueberry (Legacy)_Default](assets/Blueberry (Legacy)_Default.png)
+**43**
 
-**Highland** - ![Blueberry (Legacy)_Highland](assets/Blueberry (Legacy)_Highland.png)
 
-**Semi-Fluff** - ![Blueberry (Legacy)_Semi-Fluff](assets/Blueberry (Legacy)_Semi-Fluff.png)
+**44**
 
-**Tall** - ![Blueberry (Legacy)_Tall](assets/Blueberry (Legacy)_Tall.png)
 
-**Tall Semi-Fluff** - ![Blueberry (Legacy)_Tall Semi-Fluff](assets/Blueberry (Legacy)_Tall Semi-Fluff.png)
+**45**
 
-## Brownie
 
-**Default** - ![Brownie_Default](assets/Brownie_Default.png)
+**46**
 
-**Highland** - ![Brownie_Highland](assets/Brownie_Highland.png)
 
-**Semi-Fluff** - ![Brownie_Semi-Fluff](assets/Brownie_Semi-Fluff.png)
+**47**
 
-**Tall** - ![Brownie_Tall](assets/Brownie_Tall.png)
 
-**Tall Semi-Fluff** - ![Brownie_Tall Semi-Fluff](assets/Brownie_Tall Semi-Fluff.png)
+**48**
 
-## Bubblegum
 
-**Default** - ![Bubblegum_Default](assets/Bubblegum_Default.png)
+**49**
 
-**Highland** - ![Bubblegum_Highland](assets/Bubblegum_Highland.png)
 
-**Semi-Fluff** - ![Bubblegum_Semi-Fluff](assets/Bubblegum_Semi-Fluff.png)
+**50**
 
-**Tall** - ![Bubblegum_Tall](assets/Bubblegum_Tall.png)
 
-**Tall Semi-Fluff** - ![Bubblegum_Tall Semi-Fluff](assets/Bubblegum_Tall Semi-Fluff.png)
+**51**
 
-## Cashew
 
-**Default** - ![Cashew_Default](assets/Cashew_Default.png)
+**52**
 
-**Highland** - ![Cashew_Highland](assets/Cashew_Highland.png)
 
-**Semi-Fluff** - ![Cashew_Semi-Fluff](assets/Cashew_Semi-Fluff.png)
+**53**
 
-**Tall** - ![Cashew_Tall](assets/Cashew_Tall.png)
 
-**Tall Semi-Fluff** - ![Cashew_Tall Semi-Fluff](assets/Cashew_Tall Semi-Fluff.png)
+**54**
 
-## Charcoal
 
-**Default** - ![Charcoal_Default](assets/Charcoal_Default.png)
+**55**
 
-**Highland** - ![Charcoal_Highland](assets/Charcoal_Highland.png)
 
-**Semi-Fluff** - ![Charcoal_Semi-Fluff](assets/Charcoal_Semi-Fluff.png)
+**56**
 
-**Tall** - ![Charcoal_Tall](assets/Charcoal_Tall.png)
 
-**Tall Semi-Fluff** - ![Charcoal_Tall Semi-Fluff](assets/Charcoal_Tall Semi-Fluff.png)
+**57**
 
-## Chocolate
 
-**Default** - ![Chocolate_Default](assets/Chocolate_Default.png)
+**58**
 
-**Highland** - ![Chocolate_Highland](assets/Chocolate_Highland.png)
 
-**Semi-Fluff** - ![Chocolate_Semi-Fluff](assets/Chocolate_Semi-Fluff.png)
+**59**
 
-**Tall** - ![Chocolate_Tall](assets/Chocolate_Tall.png)
 
-**Tall Semi-Fluff** - ![Chocolate_Tall Semi-Fluff](assets/Chocolate_Tall Semi-Fluff.png)
+**60**
 
-## Chocolate (Legacy)
 
-**Default** - ![Chocolate (Legacy)_Default](assets/Chocolate (Legacy)_Default.png)
+**61**
 
-**Highland** - ![Chocolate (Legacy)_Highland](assets/Chocolate (Legacy)_Highland.png)
 
-**Semi-Fluff** - ![Chocolate (Legacy)_Semi-Fluff](assets/Chocolate (Legacy)_Semi-Fluff.png)
+**62**
 
-**Tall** - ![Chocolate (Legacy)_Tall](assets/Chocolate (Legacy)_Tall.png)
 
-**Tall Semi-Fluff** - ![Chocolate (Legacy)_Tall Semi-Fluff](assets/Chocolate (Legacy)_Tall Semi-Fluff.png)
+**63**
 
-## Citrine
 
-**Default** - ![Citrine_Default](assets/Citrine_Default.png)
+**64**
 
-**Highland** - ![Citrine_Highland](assets/Citrine_Highland.png)
 
-**Semi-Fluff** - ![Citrine_Semi-Fluff](assets/Citrine_Semi-Fluff.png)
+**65**
 
-**Tall** - ![Citrine_Tall](assets/Citrine_Tall.png)
 
-**Tall Semi-Fluff** - ![Citrine_Tall Semi-Fluff](assets/Citrine_Tall Semi-Fluff.png)
+**66**
 
-## Cloud
 
-**Default** - ![Cloud_Default](assets/Cloud_Default.png)
+**67**
 
-**Highland** - ![Cloud_Highland](assets/Cloud_Highland.png)
 
-**Semi-Fluff** - ![Cloud_Semi-Fluff](assets/Cloud_Semi-Fluff.png)
+**68**
 
-**Tall** - ![Cloud_Tall](assets/Cloud_Tall.png)
 
-**Tall Semi-Fluff** - ![Cloud_Tall Semi-Fluff](assets/Cloud_Tall Semi-Fluff.png)
+**69**
 
-## Coffee
 
-**Default** - ![Coffee_Default](assets/Coffee_Default.png)
+**70**
 
-**Highland** - ![Coffee_Highland](assets/Coffee_Highland.png)
 
-**Semi-Fluff** - ![Coffee_Semi-Fluff](assets/Coffee_Semi-Fluff.png)
+**71**
 
-**Tall** - ![Coffee_Tall](assets/Coffee_Tall.png)
 
-**Tall Semi-Fluff** - ![Coffee_Tall Semi-Fluff](assets/Coffee_Tall Semi-Fluff.png)
+**72**
 
-## Coffee (Legacy)
 
-**Default** - ![Coffee (Legacy)_Default](assets/Coffee (Legacy)_Default.png)
+**73**
 
-**Highland** - ![Coffee (Legacy)_Highland](assets/Coffee (Legacy)_Highland.png)
 
-**Semi-Fluff** - ![Coffee (Legacy)_Semi-Fluff](assets/Coffee (Legacy)_Semi-Fluff.png)
+**74**
 
-**Tall** - ![Coffee (Legacy)_Tall](assets/Coffee (Legacy)_Tall.png)
 
-**Tall Semi-Fluff** - ![Coffee (Legacy)_Tall Semi-Fluff](assets/Coffee (Legacy)_Tall Semi-Fluff.png)
+**75**
 
-## Cookies & Cream
 
-**Default** - ![Cookies & Cream_Default](assets/Cookies & Cream_Default.png)
+**76**
 
-**Highland** - ![Cookies & Cream_Highland](assets/Cookies & Cream_Highland.png)
 
-**Semi-Fluff** - ![Cookies & Cream_Semi-Fluff](assets/Cookies & Cream_Semi-Fluff.png)
+**77**
 
-**Tall** - ![Cookies & Cream_Tall](assets/Cookies & Cream_Tall.png)
 
-**Tall Semi-Fluff** - ![Cookies & Cream_Tall Semi-Fluff](assets/Cookies & Cream_Tall Semi-Fluff.png)
+**78**
 
-## Cotton
 
-**Default** - ![Cotton_Default](assets/Cotton_Default.png)
+**79**
 
-**Highland** - ![Cotton_Highland](assets/Cotton_Highland.png)
 
-**Semi-Fluff** - ![Cotton_Semi-Fluff](assets/Cotton_Semi-Fluff.png)
+**80**
 
-**Tall** - ![Cotton_Tall](assets/Cotton_Tall.png)
 
-**Tall Semi-Fluff** - ![Cotton_Tall Semi-Fluff](assets/Cotton_Tall Semi-Fluff.png)
+## Items
 
-## Dandelion
+![Ace Flag](assets/AceFlag_icon.png) **Ace Flag**
 
-**Default** - ![Dandelion_Default](assets/Dandelion_Default.png)
+![Ace Pin](assets/AcePin_icon.png) **Ace Pin**
 
-**Highland** - ![Dandelion_Highland](assets/Dandelion_Highland.png)
+![Ally Flag](assets/AllyFlag_icon.png) **Ally Flag**
 
-**Semi-Fluff** - ![Dandelion_Semi-Fluff](assets/Dandelion_Semi-Fluff.png)
+![Ally Pin](assets/AllyPin_icon.png) **Ally Pin**
 
-**Tall** - ![Dandelion_Tall](assets/Dandelion_Tall.png)
+![Aloe Vera](assets/Aloe Vera_icon.png) **Aloe Vera**
 
-**Tall Semi-Fluff** - ![Dandelion_Tall Semi-Fluff](assets/Dandelion_Tall Semi-Fluff.png)
+![Alpha Anklet Left](assets/AlphaGBAnkletLeft_icon.png) **Alpha Anklet Left**
 
-## Default
+![Alpha Anklet Right](assets/AlphaGBAnkletRight_icon.png) **Alpha Anklet Right**
 
-**Default** - ![Default_Default](assets/Default_Default.png)
+![Alpha Bracelet Left](assets/AlphaGBBraceletLeft_icon.png) **Alpha Bracelet Left**
 
-**Highland** - ![Default_Highland](assets/Default_Highland.png)
+![Alpha Bracelet Right](assets/AlphaGBBraceletRight_icon.png) **Alpha Bracelet Right**
 
-**Semi-Fluff** - ![Default_Semi-Fluff](assets/Default_Semi-Fluff.png)
+![Alpha Necklace](assets/AlphaGBNecklace_icon.png) **Alpha Necklace**
 
-**Tall** - ![Default_Tall](assets/Default_Tall.png)
+![Alpha Tail](assets/AlphaGBTail_icon.png) **Alpha Tail**
 
-**Tall Semi-Fluff** - ![Default_Tall Semi-Fluff](assets/Default_Tall Semi-Fluff.png)
+![Alpha Tiara](assets/AlphaGBTiara_icon.png) **Alpha Tiara**
 
-## Dragonfruit
+![Apple](assets/Apple_icon.png) **Apple**
 
-**Default** - ![Dragonfruit_Default](assets/Dragonfruit_Default.png)
+![Aro Flag](assets/AroFlag_icon.png) **Aro Flag**
 
-**Highland** - ![Dragonfruit_Highland](assets/Dragonfruit_Highland.png)
+![Aro Pin](assets/AroPin_icon.png) **Aro Pin**
 
-**Semi-Fluff** - ![Dragonfruit_Semi-Fluff](assets/Dragonfruit_Semi-Fluff.png)
+![Axe](assets/Axe_icon.png) **Axe**
 
-**Tall** - ![Dragonfruit_Tall](assets/Dragonfruit_Tall.png)
+![Bandana](assets/Bandana_icon.png) **Bandana**
 
-**Tall Semi-Fluff** - ![Dragonfruit_Tall Semi-Fluff](assets/Dragonfruit_Tall Semi-Fluff.png)
+![Basket](assets/Basket_icon.png) **Basket**
 
-## Expired Milk
+![Bat Tail](assets/BatTail_icon.png) **Bat Tail**
 
-**Default** - ![Expired Milk_Default](assets/Expired Milk_Default.png)
+![Bat Wings](assets/BatWings_icon.png) **Bat Wings**
 
-**Highland** - ![Expired Milk_Highland](assets/Expired Milk_Highland.png)
+![Bee Hat](assets/BeeHat_icon.png) **Bee Hat**
 
-**Semi-Fluff** - ![Expired Milk_Semi-Fluff](assets/Expired Milk_Semi-Fluff.png)
+![Beekeeper Hood](assets/BeekeeperHat_icon.png) **Beekeeper Hood**
 
-**Tall** - ![Expired Milk_Tall](assets/Expired Milk_Tall.png)
+![Berret](assets/BerretHat_icon.png) **Berret**
 
-**Tall Semi-Fluff** - ![Expired Milk_Tall Semi-Fluff](assets/Expired Milk_Tall Semi-Fluff.png)
+![Berret with Mistletoe](assets/MistletoeBerretHat_icon.png) **Berret with Mistletoe**
 
-## Fake Cow
+![Beta Necklace](assets/BetaSCNecklace_icon.png) **Beta Necklace**
 
-**Unique** - ![Fake Cow](assets/Fake Cow.png)
+![Beta Tail](assets/BetaSCTail_icon.png) **Beta Tail**
 
-## Fear
+![Bi Flag](assets/BiFlag_icon.png) **Bi Flag**
 
-**Unique** - ![Fear](assets/Fear.png)
+![Bi Pin](assets/BiPin_icon.png) **Bi Pin**
 
-## Fly Agaric
+![Blackberry](assets/Blackberry_icon.png) **Blackberry**
 
-**Default** - ![Fly Agaric_Default](assets/Fly Agaric_Default.png)
+![Blood Necklace](assets/BloodNecklace_icon.png) **Blood Necklace**
 
-**Highland** - ![Fly Agaric_Highland](assets/Fly Agaric_Highland.png)
+![Blue Tea Cup](assets/TeaCupBlueGoldLifted_icon.png) **Blue Tea Cup**
 
-**Semi-Fluff** - ![Fly Agaric_Semi-Fluff](assets/Fly Agaric_Semi-Fluff.png)
+![Blueberry](assets/Blueberry_icon.png) **Blueberry**
 
-**Tall** - ![Fly Agaric_Tall](assets/Fly Agaric_Tall.png)
+![Bow](assets/NeckBow_icon.png) **Bow**
 
-**Tall Semi-Fluff** - ![Fly Agaric_Tall Semi-Fluff](assets/Fly Agaric_Tall Semi-Fluff.png)
+![Bucket](assets/Bucket_icon.png) **Bucket**
 
-## Fly Agaric (Legacy)
+![Butterfly Clip](assets/ButterflyClip_icon.png) **Butterfly Clip**
 
-**Default** - ![Fly Agaric (Legacy)_Default](assets/Fly Agaric (Legacy)_Default.png)
+![Candycane](assets/CandyCane_icon.png) **Candycane**
 
-**Highland** - ![Fly Agaric (Legacy)_Highland](assets/Fly Agaric (Legacy)_Highland.png)
+![Chamomile](assets/Chamomile_icon.png) **Chamomile**
 
-**Semi-Fluff** - ![Fly Agaric (Legacy)_Semi-Fluff](assets/Fly Agaric (Legacy)_Semi-Fluff.png)
+![Chanterelle](assets/Chanterelle_icon.png) **Chanterelle**
 
-**Tall** - ![Fly Agaric (Legacy)_Tall](assets/Fly Agaric (Legacy)_Tall.png)
+![Choco Egg](assets/EasterEggChoco_icon.png) **Choco Egg**
 
-**Tall Semi-Fluff** - ![Fly Agaric (Legacy)_Tall Semi-Fluff](assets/Fly Agaric (Legacy)_Tall Semi-Fluff.png)
+![Cloudberry](assets/Cloudberries_icon.png) **Cloudberry**
 
-## Gargoyle
+![Cobweb](assets/Cobweb_icon.png) **Cobweb**
 
-**Default** - ![Gargoyle_Default](assets/Gargoyle_Default.png)
+![Comet Anklet Left](assets/CometAnkletLeft_icon.png) **Comet Anklet Left**
 
-**Highland** - ![Gargoyle_Highland](assets/Gargoyle_Highland.png)
+![Comet Anklet Right](assets/CometAnkletRight_icon.png) **Comet Anklet Right**
 
-**Semi-Fluff** - ![Gargoyle_Semi-Fluff](assets/Gargoyle_Semi-Fluff.png)
+![Comet Bracelet Left](assets/CometBraceletLeft_icon.png) **Comet Bracelet Left**
 
-**Tall** - ![Gargoyle_Tall](assets/Gargoyle_Tall.png)
+![Comet Bracelet Right](assets/CometBraceletRight_icon.png) **Comet Bracelet Right**
 
-**Tall Semi-Fluff** - ![Gargoyle_Tall Semi-Fluff](assets/Gargoyle_Tall Semi-Fluff.png)
+![Comet Necklace](assets/CometNecklace_icon.png) **Comet Necklace**
 
-## Gay
+![Comet Pin](assets/CometHeadPin_icon.png) **Comet Pin**
 
-**Default** - ![Gay_Default](assets/Gay_Default.png)
+![Comet Tail](assets/CometTailPin_icon.png) **Comet Tail**
 
-**Highland** - ![Gay_Highland](assets/Gay_Highland.png)
+![Cranberry](assets/Cranberry_icon.png) **Cranberry**
 
-**Semi-Fluff** - ![Gay_Semi-Fluff](assets/Gay_Semi-Fluff.png)
+![Creamy Dandelion Soup](assets/CreamyDandelionSoup_icon.png) **Creamy Dandelion Soup**
 
-**Tall** - ![Gay_Tall](assets/Gay_Tall.png)
+![Cupcake](assets/Cupcake_icon.png) **Cupcake**
 
-**Tall Semi-Fluff** - ![Gay_Tall Semi-Fluff](assets/Gay_Tall Semi-Fluff.png)
+![Dandelion](assets/Dandelion_icon.png) **Dandelion**
 
-## Genderfluid
+![Default](assets/StarterCharacter_icon.png) **Default**
 
-**Default** - ![Genderfluid_Default](assets/Genderfluid_Default.png)
+![Demon Wings](assets/DemonWings_icon.png) **Demon Wings**
 
-**Highland** - ![Genderfluid_Highland](assets/Genderfluid_Highland.png)
+![Devil Horns](assets/DevilHorns_icon.png) **Devil Horns**
 
-**Semi-Fluff** - ![Genderfluid_Semi-Fluff](assets/Genderfluid_Semi-Fluff.png)
+![Dropped Eye](assets/DroppedEye_icon.png) **Dropped Eye**
 
-**Tall** - ![Genderfluid_Tall](assets/Genderfluid_Tall.png)
+![Easter Lily Head](assets/EasterLily_H_icon.png) **Easter Lily Head**
 
-**Tall Semi-Fluff** - ![Genderfluid_Tall Semi-Fluff](assets/Genderfluid_Tall Semi-Fluff.png)
+![Easter Lily Mouth](assets/EasterLily_M_icon.png) **Easter Lily Mouth**
 
-## Ghost
+![Elderberry](assets/Elderberry_icon.png) **Elderberry**
 
-**Unique** - ![Ghost](assets/Ghost.png)
+![Elf Hat](assets/ElfHat_icon.png) **Elf Hat**
 
-## Gingerbread
+![Fallen Flower](assets/FallenFlower_icon.png) **Fallen Flower**
 
-**Default** - ![Gingerbread_Default](assets/Gingerbread_Default.png)
+![Felted Birch Hood](assets/FeltedBirchHood_icon.png) **Felted Birch Hood**
 
-**Highland** - ![Gingerbread_Highland](assets/Gingerbread_Highland.png)
+![Felted Ear Hat](assets/FeltedEarHat_icon.png) **Felted Ear Hat**
 
-**Semi-Fluff** - ![Gingerbread_Semi-Fluff](assets/Gingerbread_Semi-Fluff.png)
+![Felted Hammer Hat](assets/FeltedHammerHat_icon.png) **Felted Hammer Hat**
 
-**Tall** - ![Gingerbread_Tall](assets/Gingerbread_Tall.png)
+![Fireflies](assets/FireflyAura_icon.png) **Fireflies**
 
-**Tall Semi-Fluff** - ![Gingerbread_Tall Semi-Fluff](assets/Gingerbread_Tall Semi-Fluff.png)
+![Floatie](assets/Floatie_icon.png) **Floatie**
 
-## Goldenberry
+![Floral Bar](assets/FloralBar_icon.png) **Floral Bar**
 
-**Default** - ![Goldenberry_Default](assets/Goldenberry_Default.png)
+![Four-Leaf Clover](assets/Clover4Leaf_icon.png) **Four-Leaf Clover**
 
-**Highland** - ![Goldenberry_Highland](assets/Goldenberry_Highland.png)
+![Gay Flag](assets/GayFlag_icon.png) **Gay Flag**
 
-**Semi-Fluff** - ![Goldenberry_Semi-Fluff](assets/Goldenberry_Semi-Fluff.png)
+![Gay Pin](assets/GayPin_icon.png) **Gay Pin**
 
-**Tall** - ![Goldenberry_Tall](assets/Goldenberry_Tall.png)
+![Giftbox](assets/Giftbox_icon.png) **Giftbox**
 
-**Tall Semi-Fluff** - ![Goldenberry_Tall Semi-Fluff](assets/Goldenberry_Tall Semi-Fluff.png)
+![Ginger](assets/Ginger_icon.png) **Ginger**
 
-## Grass
+![Glass Lantern](assets/GlassLantern_icon.png) **Glass Lantern**
 
-**Default** - ![Grass_Default](assets/Grass_Default.png)
+![Healing Gum](assets/HealingGum_icon.png) **Healing Gum**
 
-**Highland** - ![Grass_Highland](assets/Grass_Highland.png)
+![Healing Ointment](assets/HealingOintment_icon.png) **Healing Ointment**
 
-**Semi-Fluff** - ![Grass_Semi-Fluff](assets/Grass_Semi-Fluff.png)
+![Healing Tea](assets/HealingTea_icon.png) **Healing Tea**
 
-**Tall** - ![Grass_Tall](assets/Grass_Tall.png)
+![Heart](assets/HeartAcc_icon.png) **Heart**
 
-**Tall Semi-Fluff** - ![Grass_Tall Semi-Fluff](assets/Grass_Tall Semi-Fluff.png)
+**Highland**
 
-## Grass (Legacy)
+![Holiday Hat Green](assets/GreenSantaHat_icon.png) **Holiday Hat Green**
 
-**Default** - ![Grass (Legacy)_Default](assets/Grass (Legacy)_Default.png)
+![Holiday Hat Red](assets/RedSantaHat_icon.png) **Holiday Hat Red**
 
-**Highland** - ![Grass (Legacy)_Highland](assets/Grass (Legacy)_Highland.png)
+![Holiday Necklace](assets/HNecklace_icon.png) **Holiday Necklace**
 
-**Semi-Fluff** - ![Grass (Legacy)_Semi-Fluff](assets/Grass (Legacy)_Semi-Fluff.png)
+![Holiday Striped Scarf](assets/HolidayScarf_icon.png) **Holiday Striped Scarf**
 
-**Tall** - ![Grass (Legacy)_Tall](assets/Grass (Legacy)_Tall.png)
+![Honey Glazed Gold](assets/HoneyGlazedGold_icon.png) **Honey Glazed Gold**
 
-**Tall Semi-Fluff** - ![Grass (Legacy)_Tall Semi-Fluff](assets/Grass (Legacy)_Tall Semi-Fluff.png)
+![Honey Jar](assets/Honey_icon.png) **Honey Jar**
 
-## Green Moss
+![Ice Cape](assets/IceCape_icon.png) **Ice Cape**
 
-**Default** - ![Green Moss_Default](assets/Green Moss_Default.png)
+![Ice Crown](assets/IceCrown_icon.png) **Ice Crown**
 
-**Highland** - ![Green Moss_Highland](assets/Green Moss_Highland.png)
+![Ice Cube](assets/IceCube_icon.png) **Ice Cube**
 
-**Semi-Fluff** - ![Green Moss_Semi-Fluff](assets/Green Moss_Semi-Fluff.png)
+![Icicles](assets/Iceicle_icon.png) **Icicles**
 
-**Tall** - ![Green Moss_Tall](assets/Green Moss_Tall.png)
+![Jellyfish Cape](assets/JellyFishCape_icon.png) **Jellyfish Cape**
 
-**Tall Semi-Fluff** - ![Green Moss_Tall Semi-Fluff](assets/Green Moss_Tall Semi-Fluff.png)
+![Jellyfish Hat Blue](assets/JellyFishHatBlue_icon.png) **Jellyfish Hat Blue**
 
-## Heart
+![Jellyfish Hat Pink](assets/JellyFishHatPink_icon.png) **Jellyfish Hat Pink**
 
-**Unique** - ![Heart](assets/Heart.png)
+![Knife](assets/Knife_icon.png) **Knife**
 
-## Honey
+![Lantern](assets/Lantern_icon.png) **Lantern**
 
-**Default** - ![Honey_Default](assets/Honey_Default.png)
+![Lesbian Flag](assets/LesFlag_icon.png) **Lesbian Flag**
 
-**Highland** - ![Honey_Highland](assets/Honey_Highland.png)
+![Lesbian Pin](assets/LesPin_icon.png) **Lesbian Pin**
 
-**Semi-Fluff** - ![Honey_Semi-Fluff](assets/Honey_Semi-Fluff.png)
+![Lily of the Valley](assets/LilyOfTheValley_icon.png) **Lily of the Valley**
 
-**Tall** - ![Honey_Tall](assets/Honey_Tall.png)
+![Linseed](assets/LinSeed_icon.png) **Linseed**
 
-**Tall Semi-Fluff** - ![Honey_Tall Semi-Fluff](assets/Honey_Tall Semi-Fluff.png)
+![Love Letter](assets/LoveLetter_icon.png) **Love Letter**
 
-## Hot Chocolate
+![Madness Tophat](assets/MadnessTopHat_icon.png) **Madness Tophat**
 
-**Default** - ![Hot Chocolate_Default](assets/Hot Chocolate_Default.png)
+![Metal Ore](assets/MetalOre_icon.png) **Metal Ore**
 
-**Highland** - ![Hot Chocolate_Highland](assets/Hot Chocolate_Highland.png)
+![Milk Thistle](assets/MilkThistle_icon.png) **Milk Thistle**
 
-**Semi-Fluff** - ![Hot Chocolate_Semi-Fluff](assets/Hot Chocolate_Semi-Fluff.png)
+![Mint](assets/Mint_icon.png) **Mint**
 
-**Tall** - ![Hot Chocolate_Tall](assets/Hot Chocolate_Tall.png)
+![Mint Cream](assets/MintCream_icon.png) **Mint Cream**
 
-**Tall Semi-Fluff** - ![Hot Chocolate_Tall Semi-Fluff](assets/Hot Chocolate_Tall Semi-Fluff.png)
+![Mistletoe](assets/Mistletoe_icon.png) **Mistletoe**
 
-## Ice
+![Moldy flesh](assets/MoldyFlesh_icon.png) **Moldy flesh**
 
-**Default** - ![Ice_Default](assets/Ice_Default.png)
+![Moollween 2023 Crown](assets/Crown_HW_2023_icon.png) **Moollween 2023 Crown**
 
-**Highland** - ![Ice_Highland](assets/Ice_Highland.png)
+![Moon Berry Goop](assets/MoonBerryGoop_icon.png) **Moon Berry Goop**
 
-**Semi-Fluff** - ![Ice_Semi-Fluff](assets/Ice_Semi-Fluff.png)
+![Mortar & Pestle](assets/MortarAndPestle_icon.png) **Mortar & Pestle**
 
-**Tall** - ![Ice_Tall](assets/Ice_Tall.png)
+![Moss](assets/Moss_icon.png) **Moss**
 
-**Tall Semi-Fluff** - ![Ice_Tall Semi-Fluff](assets/Ice_Tall Semi-Fluff.png)
+![Mushroom Stew](assets/MushroomStew_icon.png) **Mushroom Stew**
 
-## Intersex
+![Nettle](assets/Nettle_icon.png) **Nettle**
 
-**Default** - ![Intersex_Default](assets/Intersex_Default.png)
+![Nettle Soup](assets/NettleSoup_icon.png) **Nettle Soup**
 
-**Highland** - ![Intersex_Highland](assets/Intersex_Highland.png)
+![Nonbinary Flag](assets/NBFlag_icon.png) **Nonbinary Flag**
 
-**Semi-Fluff** - ![Intersex_Semi-Fluff](assets/Intersex_Semi-Fluff.png)
+![Nonbinary Pin](assets/NBPin_icon.png) **Nonbinary Pin**
 
-**Tall** - ![Intersex_Tall](assets/Intersex_Tall.png)
+![Nose Piercings](assets/NosePiercings_icon.png) **Nose Piercings**
 
-**Tall Semi-Fluff** - ![Intersex_Tall Semi-Fluff](assets/Intersex_Tall Semi-Fluff.png)
+![Oil Flask](assets/OilFlask_icon.png) **Oil Flask**
 
-## Lemon
+![Pan Flag](assets/PanFlag_icon.png) **Pan Flag**
 
-**Default** - ![Lemon_Default](assets/Lemon_Default.png)
+![Pan Pin](assets/PanPin_icon.png) **Pan Pin**
 
-**Highland** - ![Lemon_Highland](assets/Lemon_Highland.png)
+![Pastel Egg](assets/EasterEggPastel_icon.png) **Pastel Egg**
 
-**Semi-Fluff** - ![Lemon_Semi-Fluff](assets/Lemon_Semi-Fluff.png)
+![Peppermint Candy](assets/PeppermintCandy_icon.png) **Peppermint Candy**
 
-**Tall** - ![Lemon_Tall](assets/Lemon_Tall.png)
+![Pickaxe](assets/Pickaxe_icon.png) **Pickaxe**
 
-**Tall Semi-Fluff** - ![Lemon_Tall Semi-Fluff](assets/Lemon_Tall Semi-Fluff.png)
+![Pirate Hat](assets/PirateHat_icon.png) **Pirate Hat**
 
-## Lesbian
+![Pointed Hood](assets/PointedHood_icon.png) **Pointed Hood**
 
-**Default** - ![Lesbian_Default](assets/Lesbian_Default.png)
+![Popsicle](assets/Popcicle_icon.png) **Popsicle**
 
-**Highland** - ![Lesbian_Highland](assets/Lesbian_Highland.png)
+![Pride Flag](assets/PrideFlag_icon.png) **Pride Flag**
 
-**Semi-Fluff** - ![Lesbian_Semi-Fluff](assets/Lesbian_Semi-Fluff.png)
+![Pride Pin](assets/PridePin_icon.png) **Pride Pin**
 
-**Tall** - ![Lesbian_Tall](assets/Lesbian_Tall.png)
+![Puff Steak](assets/PuffSteak_icon.png) **Puff Steak**
 
-**Tall Semi-Fluff** - ![Lesbian_Tall Semi-Fluff](assets/Lesbian_Tall Semi-Fluff.png)
+![Puffball](assets/Puffball_icon.png) **Puffball**
 
-## Light Moss
+![Pumpkin Headband](assets/PumpkinAntlers_icon.png) **Pumpkin Headband**
 
-**Default** - ![Light Moss_Default](assets/Light Moss_Default.png)
+![Pumpkin Tail](assets/PumpkinTail_icon.png) **Pumpkin Tail**
 
-**Highland** - ![Light Moss_Highland](assets/Light Moss_Highland.png)
+![Rainbow Pearl Bracelet](assets/RainbowBracelet_icon.png) **Rainbow Pearl Bracelet**
 
-**Semi-Fluff** - ![Light Moss_Semi-Fluff](assets/Light Moss_Semi-Fluff.png)
+![Raspberry](assets/Raspberry_icon.png) **Raspberry**
 
-**Tall** - ![Light Moss_Tall](assets/Light Moss_Tall.png)
+![Red Currant](assets/Red Currant_icon.png) **Red Currant**
 
-**Tall Semi-Fluff** - ![Light Moss_Tall Semi-Fluff](assets/Light Moss_Tall Semi-Fluff.png)
+![Red Striped Scarf](assets/RedScarf_icon.png) **Red Striped Scarf**
 
-## Lychee
+![Rock Block](assets/RockBlock_icon.png) **Rock Block**
 
-**Default** - ![Lychee_Default](assets/Lychee_Default.png)
+![Rock Salt](assets/RockSalt_icon.png) **Rock Salt**
 
-**Highland** - ![Lychee_Highland](assets/Lychee_Highland.png)
+![Rose](assets/Rose_icon.png) **Rose**
 
-**Semi-Fluff** - ![Lychee_Semi-Fluff](assets/Lychee_Semi-Fluff.png)
+![Ruby Crown](assets/RubyCrown_icon.png) **Ruby Crown**
 
-**Tall** - ![Lychee_Tall](assets/Lychee_Tall.png)
+![Saffron bun](assets/SaffronBun_icon.png) **Saffron bun**
 
-**Tall Semi-Fluff** - ![Lychee_Tall Semi-Fluff](assets/Lychee_Tall Semi-Fluff.png)
+![Sage](assets/Sage_icon.png) **Sage**
 
-## Lychee (Legacy)
+![Santa Lucia Crown](assets/SantaLuciaCrown_icon.png) **Santa Lucia Crown**
 
-**Default** - ![Lychee (Legacy)_Default](assets/Lychee (Legacy)_Default.png)
+![Sap](assets/Sap_icon.png) **Sap**
 
-**Highland** - ![Lychee (Legacy)_Highland](assets/Lychee (Legacy)_Highland.png)
+![Seed Pouch](assets/SeedPouch_icon.png) **Seed Pouch**
 
-**Semi-Fluff** - ![Lychee (Legacy)_Semi-Fluff](assets/Lychee (Legacy)_Semi-Fluff.png)
+**Semi-Fluff**
 
-**Tall** - ![Lychee (Legacy)_Tall](assets/Lychee (Legacy)_Tall.png)
+![Snot](assets/Snot_icon.png) **Snot**
 
-**Tall Semi-Fluff** - ![Lychee (Legacy)_Tall Semi-Fluff](assets/Lychee (Legacy)_Tall Semi-Fluff.png)
+![Snowflake Tail](assets/SnowflakeTail_icon.png) **Snowflake Tail**
 
-## Mango
+![Spider Legs](assets/SpiderLegs_icon.png) **Spider Legs**
 
-**Default** - ![Mango_Default](assets/Mango_Default.png)
+![Spider Web Bracelet](assets/SpiderBracelet_icon.png) **Spider Web Bracelet**
 
-**Highland** - ![Mango_Highland](assets/Mango_Highland.png)
+![Spike Choker](assets/SpikeChoker_icon.png) **Spike Choker**
 
-**Semi-Fluff** - ![Mango_Semi-Fluff](assets/Mango_Semi-Fluff.png)
+![Splitgill](assets/SplitGill_icon.png) **Splitgill**
 
-**Tall** - ![Mango_Tall](assets/Mango_Tall.png)
+![Star Necklace](assets/StarNecklace_icon.png) **Star Necklace**
 
-**Tall Semi-Fluff** - ![Mango_Tall Semi-Fluff](assets/Mango_Tall Semi-Fluff.png)
+![Star Pin](assets/StarPin_icon.png) **Star Pin**
 
-## Milk
+![Star Wing Anklet Left](assets/StarAnkletLeft_icon.png) **Star Wing Anklet Left**
 
-**Default** - ![Milk_Default](assets/Milk_Default.png)
+![Star Wing Anklet Right](assets/StarAnkletRight_icon.png) **Star Wing Anklet Right**
 
-**Highland** - ![Milk_Highland](assets/Milk_Highland.png)
+![Star Wing Bracelet Left](assets/StarBraceletLeft_icon.png) **Star Wing Bracelet Left**
 
-**Semi-Fluff** - ![Milk_Semi-Fluff](assets/Milk_Semi-Fluff.png)
+![Star Wing Bracelet Right](assets/StarBraceletRight_icon.png) **Star Wing Bracelet Right**
 
-**Tall** - ![Milk_Tall](assets/Milk_Tall.png)
+![Star Wing Tail](assets/StarWingTail_icon.png) **Star Wing Tail**
 
-**Tall Semi-Fluff** - ![Milk_Tall Semi-Fluff](assets/Milk_Tall Semi-Fluff.png)
+![Star Wings](assets/StarWings_icon.png) **Star Wings**
 
-## Nonbinary
+![Stick](assets/Stick_icon.png) **Stick**
 
-**Default** - ![Nonbinary_Default](assets/Nonbinary_Default.png)
+![Stone Carving Kit](assets/StoneCarvingKit_icon.png) **Stone Carving Kit**
 
-**Highland** - ![Nonbinary_Highland](assets/Nonbinary_Highland.png)
+![Strawberry](assets/Strawberry_icon.png) **Strawberry**
 
-**Semi-Fluff** - ![Nonbinary_Semi-Fluff](assets/Nonbinary_Semi-Fluff.png)
+![Sun Berry Goop](assets/SunBerryGoop_icon.png) **Sun Berry Goop**
 
-**Tall** - ![Nonbinary_Tall](assets/Nonbinary_Tall.png)
+![Sunflower](assets/Sunflower_icon.png) **Sunflower**
 
-**Tall Semi-Fluff** - ![Nonbinary_Tall Semi-Fluff](assets/Nonbinary_Tall Semi-Fluff.png)
+![Tail Polka Bow](assets/TailBow_icon.png) **Tail Polka Bow**
 
-## Orange
+**Tall**
 
-**Default** - ![Orange_Default](assets/Orange_Default.png)
+**Tall Semi-Fluff**
 
-**Highland** - ![Orange_Highland](assets/Orange_Highland.png)
+![Teardrop Left](assets/TeardropLeft_icon.png) **Teardrop Left**
 
-**Semi-Fluff** - ![Orange_Semi-Fluff](assets/Orange_Semi-Fluff.png)
+![Teardrop Right](assets/TeardropRight_icon.png) **Teardrop Right**
 
-**Tall** - ![Orange_Tall](assets/Orange_Tall.png)
+![Teddybear](assets/Teddybear_icon.png) **Teddybear**
 
-**Tall Semi-Fluff** - ![Orange_Tall Semi-Fluff](assets/Orange_Tall Semi-Fluff.png)
+![Toast](assets/Toast_icon.png) **Toast**
 
-## Pan
+![Trans Flag](assets/TransFlag_icon.png) **Trans Flag**
 
-**Default** - ![Pan_Default](assets/Pan_Default.png)
+![Trans Pin](assets/TransPin_icon.png) **Trans Pin**
 
-**Highland** - ![Pan_Highland](assets/Pan_Highland.png)
+![Water Bucket](assets/WaterBucket_icon.png) **Water Bucket**
 
-**Semi-Fluff** - ![Pan_Semi-Fluff](assets/Pan_Semi-Fluff.png)
+![Watermelon Floatie](assets/FloatieWatermelon_icon.png) **Watermelon Floatie**
 
-**Tall** - ![Pan_Tall](assets/Pan_Tall.png)
+![Waystone Wand](assets/WaystoneWand_icon.png) **Waystone Wand**
 
-**Tall Semi-Fluff** - ![Pan_Tall Semi-Fluff](assets/Pan_Tall Semi-Fluff.png)
+![White Currant](assets/White Currant_icon.png) **White Currant**
 
-## Pear
+![Witch Hat](assets/WitchHat_icon.png) **Witch Hat**
 
-**Default** - ![Pear_Default](assets/Pear_Default.png)
+![Wood Block](assets/WoodBlock_icon.png) **Wood Block**
 
-**Highland** - ![Pear_Highland](assets/Pear_Highland.png)
+![Wood Carving Kit](assets/WoodCarvingKit_icon.png) **Wood Carving Kit**
 
-**Semi-Fluff** - ![Pear_Semi-Fluff](assets/Pear_Semi-Fluff.png)
+![Wooden Bowl](assets/WoodenBowl_icon.png) **Wooden Bowl**
 
-**Tall** - ![Pear_Tall](assets/Pear_Tall.png)
-
-**Tall Semi-Fluff** - ![Pear_Tall Semi-Fluff](assets/Pear_Tall Semi-Fluff.png)
-
-## Peppermint
-
-**Default** - ![Peppermint_Default](assets/Peppermint_Default.png)
-
-**Highland** - ![Peppermint_Highland](assets/Peppermint_Highland.png)
-
-**Semi-Fluff** - ![Peppermint_Semi-Fluff](assets/Peppermint_Semi-Fluff.png)
-
-**Tall** - ![Peppermint_Tall](assets/Peppermint_Tall.png)
-
-**Tall Semi-Fluff** - ![Peppermint_Tall Semi-Fluff](assets/Peppermint_Tall Semi-Fluff.png)
-
-## Pinecone
-
-**Default** - ![Pinecone_Default](assets/Pinecone_Default.png)
-
-**Highland** - ![Pinecone_Highland](assets/Pinecone_Highland.png)
-
-**Semi-Fluff** - ![Pinecone_Semi-Fluff](assets/Pinecone_Semi-Fluff.png)
-
-**Tall** - ![Pinecone_Tall](assets/Pinecone_Tall.png)
-
-**Tall Semi-Fluff** - ![Pinecone_Tall Semi-Fluff](assets/Pinecone_Tall Semi-Fluff.png)
-
-## Pride
-
-**Default** - ![Pride_Default](assets/Pride_Default.png)
-
-**Highland** - ![Pride_Highland](assets/Pride_Highland.png)
-
-**Semi-Fluff** - ![Pride_Semi-Fluff](assets/Pride_Semi-Fluff.png)
-
-**Tall** - ![Pride_Tall](assets/Pride_Tall.png)
-
-**Tall Semi-Fluff** - ![Pride_Tall Semi-Fluff](assets/Pride_Tall Semi-Fluff.png)
-
-## Pudding
-
-**Default** - ![Pudding_Default](assets/Pudding_Default.png)
-
-**Highland** - ![Pudding_Highland](assets/Pudding_Highland.png)
-
-**Semi-Fluff** - ![Pudding_Semi-Fluff](assets/Pudding_Semi-Fluff.png)
-
-**Tall** - ![Pudding_Tall](assets/Pudding_Tall.png)
-
-**Tall Semi-Fluff** - ![Pudding_Tall Semi-Fluff](assets/Pudding_Tall Semi-Fluff.png)
-
-## Pumpkin
-
-**Default** - ![Pumpkin_Default](assets/Pumpkin_Default.png)
-
-**Highland** - ![Pumpkin_Highland](assets/Pumpkin_Highland.png)
-
-**Semi-Fluff** - ![Pumpkin_Semi-Fluff](assets/Pumpkin_Semi-Fluff.png)
-
-**Tall** - ![Pumpkin_Tall](assets/Pumpkin_Tall.png)
-
-**Tall Semi-Fluff** - ![Pumpkin_Tall Semi-Fluff](assets/Pumpkin_Tall Semi-Fluff.png)
-
-## Rainbow
-
-**Default** - ![Rainbow_Default](assets/Rainbow_Default.png)
-
-**Highland** - ![Rainbow_Highland](assets/Rainbow_Highland.png)
-
-**Semi-Fluff** - ![Rainbow_Semi-Fluff](assets/Rainbow_Semi-Fluff.png)
-
-**Tall** - ![Rainbow_Tall](assets/Rainbow_Tall.png)
-
-**Tall Semi-Fluff** - ![Rainbow_Tall Semi-Fluff](assets/Rainbow_Tall Semi-Fluff.png)
-
-## Rose
-
-**Default** - ![Rose_Default](assets/Rose_Default.png)
-
-**Highland** - ![Rose_Highland](assets/Rose_Highland.png)
-
-**Semi-Fluff** - ![Rose_Semi-Fluff](assets/Rose_Semi-Fluff.png)
-
-**Tall** - ![Rose_Tall](assets/Rose_Tall.png)
-
-**Tall Semi-Fluff** - ![Rose_Tall Semi-Fluff](assets/Rose_Tall Semi-Fluff.png)
-
-## Shadow
-
-**Default** - ![Shadow_Default](assets/Shadow_Default.png)
-
-**Highland** - ![Shadow_Highland](assets/Shadow_Highland.png)
-
-**Semi-Fluff** - ![Shadow_Semi-Fluff](assets/Shadow_Semi-Fluff.png)
-
-**Tall** - ![Shadow_Tall](assets/Shadow_Tall.png)
-
-**Tall Semi-Fluff** - ![Shadow_Tall Semi-Fluff](assets/Shadow_Tall Semi-Fluff.png)
-
-## Skeleton
-
-**Unique** - ![Skeleton](assets/Skeleton.png)
-
-## Snow
-
-**Default** - ![Snow_Default](assets/Snow_Default.png)
-
-**Highland** - ![Snow_Highland](assets/Snow_Highland.png)
-
-**Semi-Fluff** - ![Snow_Semi-Fluff](assets/Snow_Semi-Fluff.png)
-
-**Tall** - ![Snow_Tall](assets/Snow_Tall.png)
-
-**Tall Semi-Fluff** - ![Snow_Tall Semi-Fluff](assets/Snow_Tall Semi-Fluff.png)
-
-## Soap
-
-**Default** - ![Soap_Default](assets/Soap_Default.png)
-
-**Highland** - ![Soap_Highland](assets/Soap_Highland.png)
-
-**Semi-Fluff** - ![Soap_Semi-Fluff](assets/Soap_Semi-Fluff.png)
-
-**Tall** - ![Soap_Tall](assets/Soap_Tall.png)
-
-**Tall Semi-Fluff** - ![Soap_Tall Semi-Fluff](assets/Soap_Tall Semi-Fluff.png)
-
-## Soy Sauce
-
-**Default** - ![Soy Sauce_Default](assets/Soy Sauce_Default.png)
-
-**Highland** - ![Soy Sauce_Highland](assets/Soy Sauce_Highland.png)
-
-**Semi-Fluff** - ![Soy Sauce_Semi-Fluff](assets/Soy Sauce_Semi-Fluff.png)
-
-**Tall** - ![Soy Sauce_Tall](assets/Soy Sauce_Tall.png)
-
-**Tall Semi-Fluff** - ![Soy Sauce_Tall Semi-Fluff](assets/Soy Sauce_Tall Semi-Fluff.png)
-
-## Strawberry
-
-**Default** - ![Strawberry_Default](assets/Strawberry_Default.png)
-
-**Highland** - ![Strawberry_Highland](assets/Strawberry_Highland.png)
-
-**Semi-Fluff** - ![Strawberry_Semi-Fluff](assets/Strawberry_Semi-Fluff.png)
-
-**Tall** - ![Strawberry_Tall](assets/Strawberry_Tall.png)
-
-**Tall Semi-Fluff** - ![Strawberry_Tall Semi-Fluff](assets/Strawberry_Tall Semi-Fluff.png)
-
-## Strawberry (Legacy)
-
-**Default** - ![Strawberry (Legacy)_Default](assets/Strawberry (Legacy)_Default.png)
-
-**Highland** - ![Strawberry (Legacy)_Highland](assets/Strawberry (Legacy)_Highland.png)
-
-**Semi-Fluff** - ![Strawberry (Legacy)_Semi-Fluff](assets/Strawberry (Legacy)_Semi-Fluff.png)
-
-**Tall** - ![Strawberry (Legacy)_Tall](assets/Strawberry (Legacy)_Tall.png)
-
-**Tall Semi-Fluff** - ![Strawberry (Legacy)_Tall Semi-Fluff](assets/Strawberry (Legacy)_Tall Semi-Fluff.png)
-
-## TBH
-
-**Unique** - ![TBH](assets/TBH.png)
-
-## Tomato
-
-**Default** - ![Tomato_Default](assets/Tomato_Default.png)
-
-**Highland** - ![Tomato_Highland](assets/Tomato_Highland.png)
-
-**Semi-Fluff** - ![Tomato_Semi-Fluff](assets/Tomato_Semi-Fluff.png)
-
-**Tall** - ![Tomato_Tall](assets/Tomato_Tall.png)
-
-**Tall Semi-Fluff** - ![Tomato_Tall Semi-Fluff](assets/Tomato_Tall Semi-Fluff.png)
-
-## Trans
-
-**Default** - ![Trans_Default](assets/Trans_Default.png)
-
-**Highland** - ![Trans_Highland](assets/Trans_Highland.png)
-
-**Semi-Fluff** - ![Trans_Semi-Fluff](assets/Trans_Semi-Fluff.png)
-
-**Tall** - ![Trans_Tall](assets/Trans_Tall.png)
-
-**Tall Semi-Fluff** - ![Trans_Tall Semi-Fluff](assets/Trans_Tall Semi-Fluff.png)
-
-## Vanilla
-
-**Default** - ![Vanilla_Default](assets/Vanilla_Default.png)
-
-**Highland** - ![Vanilla_Highland](assets/Vanilla_Highland.png)
-
-**Semi-Fluff** - ![Vanilla_Semi-Fluff](assets/Vanilla_Semi-Fluff.png)
-
-**Tall** - ![Vanilla_Tall](assets/Vanilla_Tall.png)
-
-**Tall Semi-Fluff** - ![Vanilla_Tall Semi-Fluff](assets/Vanilla_Tall Semi-Fluff.png)
-
-## Zombie
-
-**Unique** - ![Zombie](assets/Zombie.png)
+![Wooden Cup](assets/WoodenCup_icon.png) **Wooden Cup**
 

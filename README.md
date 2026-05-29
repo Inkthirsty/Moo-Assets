@@ -426,7 +426,7 @@
 
 ![Knife](assets/Knife_icon.png) **Knife**
 
-![Lantern](assets/Lantern_icon.png) **Lantern**
+**Lantern**
 
 ![Lesbian Flag](assets/LesFlag_icon.png) **Lesbian Flag**
 
@@ -490,7 +490,7 @@
 
 ![Popsicle](assets/Popcicle_icon.png) **Popsicle**
 
-![Pride Flag](assets/PrideFlag_icon.png) **Pride Flag**
+**Pride Flag**
 
 ![Pride Pin](assets/PridePin_icon.png) **Pride Pin**
 
@@ -568,7 +568,7 @@
 
 ![Sunflower](assets/Sunflower_icon.png) **Sunflower**
 
-![Tail Polka Bow](assets/TailBow_icon.png) **Tail Polka Bow**
+**Tail Polka Bow**
 
 **Tall**
 
@@ -576,7 +576,7 @@
 
 ![Teardrop Left](assets/TeardropLeft_icon.png) **Teardrop Left**
 
-![Teardrop Right](assets/TeardropRight_icon.png) **Teardrop Right**
+**Teardrop Right**
 
 ![Teddybear](assets/Teddybear_icon.png) **Teddybear**
 

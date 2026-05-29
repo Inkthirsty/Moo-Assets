@@ -93,9 +93,9 @@
 
 | Name | Icon |
 |------|------|
-| Ace Flag | <img src="accessories/acc_Ace_Flag.png" width="35" /> |
-| Ace Pin | <img src="accessories/acc_Ace_Pin.png" width="35" /> |
-| Ally Flag | <img src="accessories/acc_Ally_Flag.png" width="35" /> |
+| Ace Flag | <img src="accessories/acc_Ace_Flag.png" width="100" /> |
+| Ace Pin | <img src="accessories/acc_Ace_Pin.png" width="150" /> |
+| Ally Flag | <img src="accessories/acc_Ally_Flag.png" width="200" /> |
 | Ally Pin | <img src="accessories/acc_Ally_Pin.png" width="35" /> |
 | Alpha Anklet Left | <img src="accessories/acc_Alpha_Anklet_Left.png" width="35" /> |
 | Alpha Anklet Right | <img src="accessories/acc_Alpha_Anklet_Right.png" width="35" /> |

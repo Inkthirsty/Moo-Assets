@@ -187,7 +187,6 @@
 <tr><td><img src="accessories/acc_Spider_Legs.png" width="150" /></td><td>Spider Legs</td></tr>
 <tr><td><img src="accessories/acc_Spider_Web_Bracelet.png" width="150" /></td><td>Spider Web Bracelet</td></tr>
 <tr><td><img src="accessories/acc_Spike_Choker.png" width="150" /></td><td>Spike Choker</td></tr>
-<tr><td><img src="accessories/acc_Spiraxy_Cube_(dev_only_+_free_money).png" width="150" /></td><td>Spiraxy Cube (dev only + free money)</td></tr>
 <tr><td><img src="accessories/acc_Star_Necklace.png" width="150" /></td><td>Star Necklace</td></tr>
 <tr><td><img src="accessories/acc_Star_Pin.png" width="150" /></td><td>Star Pin</td></tr>
 <tr><td><img src="accessories/acc_Star_Wing_Anklet_Left.png" width="150" /></td><td>Star Wing Anklet Left</td></tr>

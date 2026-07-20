@@ -8,16 +8,16 @@
   </tr>
   <tr>
     <td>
-      <img src="skins/skin_Ace.png" width="300" />
+      <img src="prosthetics/LeftArm_No Prosthetics.png" width="300" />
     </td>
     <td>
-      <img src="skins/models/model_Default_Ace.png" width="300" />
+      <img src="prosthetics/RightArm_No Prosthetics.png" width="300" />
     </td>
     <td>
-      <img src="skins/models/model_Semi-Fluff_Ace.png" width="300" />
+      <img src="prosthetics/LeftLeg_No Prosthetics.png" width="300" />
     </td>
     <td>
-      <img src="skins/models/model_Tall_Semi-Fluff_Ace.png" width="300" />
+      <img src="prosthetics/RightLeg_No Prosthetics.png" width="300" />
     </td>
   </tr>
 </table>
@@ -32,16 +32,16 @@
   </tr>
   <tr>
     <td>
-      <img src="skins/skin_Ace.png" width="300" />
+      <img src="prosthetics/LeftArm_Simple Prosthetics.png" width="300" />
     </td>
     <td>
-      <img src="skins/models/model_Default_Ace.png" width="300" />
+      <img src="prosthetics/RightArm_Simple Prosthetics.png" width="300" />
     </td>
     <td>
-      <img src="skins/models/model_Semi-Fluff_Ace.png" width="300" />
+      <img src="prosthetics/LeftLeg_Simple Prosthetics.png" width="300" />
     </td>
     <td>
-      <img src="skins/models/model_Tall_Semi-Fluff_Ace.png" width="300" />
+      <img src="prosthetics/RightLeg_Simple Prosthetics.png" width="300" />
     </td>
   </tr>
 </table>

@@ -44,6 +44,7 @@
 <tr><td><img src="skins/skin_Ghost.png" width="300" /></td><td>Ghost</td><td><img src="skins/models/model_Ghost.png" width="300" /></td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
 <tr><td><img src="skins/skin_Gingerbread.png" width="300" /></td><td>Gingerbread</td><td><img src="skins/models/model_Default_Gingerbread.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Gingerbread.png" width="300" /></td><td><img src="skins/models/model_Highland_Gingerbread.png" width="300" /></td><td><img src="skins/models/model_Tall_Gingerbread.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Gingerbread.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Goldenberry.png" width="300" /></td><td>Goldenberry</td><td><img src="skins/models/model_Default_Goldenberry.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Goldenberry.png" width="300" /></td><td><img src="skins/models/model_Highland_Goldenberry.png" width="300" /></td><td><img src="skins/models/model_Tall_Goldenberry.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Goldenberry.png" width="300" /></td></tr>
+<tr><td><img src="skins/skin_Grapefruit.png" width="300" /></td><td>Grapefruit</td><td><img src="skins/models/model_Default_Grapefruit.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Grapefruit.png" width="300" /></td><td><img src="skins/models/model_Highland_Grapefruit.png" width="300" /></td><td><img src="skins/models/model_Tall_Grapefruit.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Grapefruit.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Grass.png" width="300" /></td><td>Grass</td><td><img src="skins/models/model_Default_Grass.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Grass.png" width="300" /></td><td><img src="skins/models/model_Highland_Grass.png" width="300" /></td><td><img src="skins/models/model_Tall_Grass.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Grass.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Grass_(Legacy).png" width="300" /></td><td>Grass (Legacy)</td><td><img src="skins/models/model_Default_Grass_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Grass_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Highland_Grass_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Tall_Grass_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Grass_(Legacy).png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Green_Moss.png" width="300" /></td><td>Green Moss</td><td><img src="skins/models/model_Default_Green_Moss.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Green_Moss.png" width="300" /></td><td><img src="skins/models/model_Highland_Green_Moss.png" width="300" /></td><td><img src="skins/models/model_Tall_Green_Moss.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Green_Moss.png" width="300" /></td></tr>
@@ -116,6 +117,10 @@
 <tr><td><img src="accessories/acc_Blue_Tea_Cup.png" width="150" /></td><td>Blue Tea Cup</td></tr>
 <tr><td><img src="accessories/acc_Bow.png" width="150" /></td><td>Bow</td></tr>
 <tr><td><img src="accessories/acc_Butterfly_Clip.png" width="150" /></td><td>Butterfly Clip</td></tr>
+<tr><td><img src="accessories/acc_Buttoned_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Buttoned Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Buttoned_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Buttoned Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Buttoned_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Buttoned Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Buttoned_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Buttoned Leg Warmer Right Hand</td></tr>
 <tr><td><img src="accessories/acc_Candycane.png" width="150" /></td><td>Candycane</td></tr>
 <tr><td><img src="accessories/acc_Choco_Egg.png" width="150" /></td><td>Choco Egg</td></tr>
 <tr><td><img src="accessories/acc_Comet_Anklet_Left.png" width="150" /></td><td>Comet Anklet Left</td></tr>
@@ -133,6 +138,7 @@
 <tr><td><img src="accessories/acc_Easter_Lily_Mouth.png" width="150" /></td><td>Easter Lily Mouth</td></tr>
 <tr><td><img src="accessories/acc_Elf_Hat.png" width="150" /></td><td>Elf Hat</td></tr>
 <tr><td><img src="accessories/acc_Fallen_Flower.png" width="150" /></td><td>Fallen Flower</td></tr>
+<tr><td><img src="accessories/acc_Felted_Bee_Hat.png" width="150" /></td><td>Felted Bee Hat</td></tr>
 <tr><td><img src="accessories/acc_Felted_Birch_Hood.png" width="150" /></td><td>Felted Birch Hood</td></tr>
 <tr><td><img src="accessories/acc_Felted_Ear_Hat.png" width="150" /></td><td>Felted Ear Hat</td></tr>
 <tr><td><img src="accessories/acc_Felted_Hammer_Hat.png" width="150" /></td><td>Felted Hammer Hat</td></tr>
@@ -154,6 +160,10 @@
 <tr><td><img src="accessories/acc_Jellyfish_Cape.png" width="150" /></td><td>Jellyfish Cape</td></tr>
 <tr><td><img src="accessories/acc_Jellyfish_Hat_Blue.png" width="150" /></td><td>Jellyfish Hat Blue</td></tr>
 <tr><td><img src="accessories/acc_Jellyfish_Hat_Pink.png" width="150" /></td><td>Jellyfish Hat Pink</td></tr>
+<tr><td><img src="accessories/acc_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Leg Warmer Right Hand</td></tr>
 <tr><td><img src="accessories/acc_Lesbian_Flag.png" width="150" /></td><td>Lesbian Flag</td></tr>
 <tr><td><img src="accessories/acc_Lesbian_Pin.png" width="150" /></td><td>Lesbian Pin</td></tr>
 <tr><td><img src="accessories/acc_Lily_of_the_Valley.png" width="150" /></td><td>Lily of the Valley</td></tr>
@@ -178,6 +188,10 @@
 <tr><td><img src="accessories/acc_Pumpkin_Tail.png" width="150" /></td><td>Pumpkin Tail</td></tr>
 <tr><td><img src="accessories/acc_Rainbow_Pearl_Bracelet.png" width="150" /></td><td>Rainbow Pearl Bracelet</td></tr>
 <tr><td><img src="accessories/acc_Red_Striped_Scarf.png" width="150" /></td><td>Red Striped Scarf</td></tr>
+<tr><td><img src="accessories/acc_Ribbon_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Ribbon Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Ribbon_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Ribbon Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Ribbon_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Ribbon Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Ribbon_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Ribbon Leg Warmer Right Hand</td></tr>
 <tr><td><img src="accessories/acc_Rose.png" width="150" /></td><td>Rose</td></tr>
 <tr><td><img src="accessories/acc_Ruby_Crown.png" width="150" /></td><td>Ruby Crown</td></tr>
 <tr><td><img src="accessories/acc_Saffron_bun.png" width="150" /></td><td>Saffron bun</td></tr>
@@ -195,6 +209,18 @@
 <tr><td><img src="accessories/acc_Star_Wing_Bracelet_Right.png" width="150" /></td><td>Star Wing Bracelet Right</td></tr>
 <tr><td><img src="accessories/acc_Star_Wing_Tail.png" width="150" /></td><td>Star Wing Tail</td></tr>
 <tr><td><img src="accessories/acc_Star_Wings.png" width="150" /></td><td>Star Wings</td></tr>
+<tr><td><img src="accessories/acc_Striped_Buttoned_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Striped Buttoned Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Striped_Buttoned_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Striped Buttoned Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Striped_Buttoned_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Striped Buttoned Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Striped_Buttoned_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Striped Buttoned Leg Warmer Right Hand</td></tr>
+<tr><td><img src="accessories/acc_Striped_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Striped Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Striped_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Striped Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Striped_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Striped Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Striped_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Striped Leg Warmer Right Hand</td></tr>
+<tr><td><img src="accessories/acc_Striped_Ribbon_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Striped Ribbon Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Striped_Ribbon_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Striped Ribbon Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Striped_Ribbon_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Striped Ribbon Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Striped_Ribbon_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Striped Ribbon Leg Warmer Right Hand</td></tr>
 <tr><td><img src="accessories/acc_Sunflower.png" width="150" /></td><td>Sunflower</td></tr>
 <tr><td><img src="accessories/acc_Tail_Polka_Bow.png" width="150" /></td><td>Tail Polka Bow</td></tr>
 <tr><td><img src="accessories/acc_Teardrop_Left.png" width="150" /></td><td>Teardrop Left</td></tr>
@@ -205,6 +231,30 @@
 <tr><td><img src="accessories/acc_Trans_Pin.png" width="150" /></td><td>Trans Pin</td></tr>
 <tr><td><img src="accessories/acc_Watermelon_Floatie.png" width="150" /></td><td>Watermelon Floatie</td></tr>
 <tr><td><img src="accessories/acc_Witch_Hat.png" width="150" /></td><td>Witch Hat</td></tr>
+<tr><td><img src="accessories/acc_Wool_Buttoned_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Wool Buttoned Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Buttoned_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Wool Buttoned Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Buttoned_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Wool Buttoned Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Buttoned_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Wool Buttoned Leg Warmer Right Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Wool Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Wool Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Wool Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Wool Leg Warmer Right Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Ribbon_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Wool Ribbon Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Ribbon_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Wool Ribbon Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Ribbon_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Wool Ribbon Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Ribbon_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Wool Ribbon Leg Warmer Right Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Buttoned_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Wool Striped Buttoned Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Buttoned_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Wool Striped Buttoned Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Buttoned_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Wool Striped Buttoned Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Buttoned_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Wool Striped Buttoned Leg Warmer Right Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Wool Striped Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Wool Striped Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Wool Striped Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Wool Striped Leg Warmer Right Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Ribbon_Leg_Warmer_Left_Foot.png" width="150" /></td><td>Wool Striped Ribbon Leg Warmer Left Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Ribbon_Leg_Warmer_Left_Hand.png" width="150" /></td><td>Wool Striped Ribbon Leg Warmer Left Hand</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Ribbon_Leg_Warmer_Right_Foot.png" width="150" /></td><td>Wool Striped Ribbon Leg Warmer Right Foot</td></tr>
+<tr><td><img src="accessories/acc_Wool_Striped_Ribbon_Leg_Warmer_Right_Hand.png" width="150" /></td><td>Wool Striped Ribbon Leg Warmer Right Hand</td></tr>
 </table>
 
 ## Items
@@ -213,6 +263,7 @@
 <tr><th style="width:50%;">Icon</th><th style="width:50%;">Name</th></tr>
 <tr><td><img src="items/item_Aloe_Vera.png" width="150" /></td><td>Aloe Vera</td></tr>
 <tr><td><img src="items/item_Apple.png" width="150" /></td><td>Apple</td></tr>
+<tr><td><img src="items/item_Ash.png" width="150" /></td><td>Ash</td></tr>
 <tr><td><img src="items/item_Axe.png" width="150" /></td><td>Axe</td></tr>
 <tr><td><img src="items/item_Basket.png" width="150" /></td><td>Basket</td></tr>
 <tr><td><img src="items/item_Blackberry.png" width="150" /></td><td>Blackberry</td></tr>
@@ -258,6 +309,8 @@
 <tr><td><img src="items/item_Sage.png" width="150" /></td><td>Sage</td></tr>
 <tr><td><img src="items/item_Sap.png" width="150" /></td><td>Sap</td></tr>
 <tr><td><img src="items/item_Seed_Pouch.png" width="150" /></td><td>Seed Pouch</td></tr>
+<tr><td><img src="items/item_Soap.png" width="150" /></td><td>Soap</td></tr>
+<tr><td><img src="items/item_Soapwort.png" width="150" /></td><td>Soapwort</td></tr>
 <tr><td><img src="items/item_Splitgill.png" width="150" /></td><td>Splitgill</td></tr>
 <tr><td><img src="items/item_Stick.png" width="150" /></td><td>Stick</td></tr>
 <tr><td><img src="items/item_Stone_Carving_Kit.png" width="150" /></td><td>Stone Carving Kit</td></tr>

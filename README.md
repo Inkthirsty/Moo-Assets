@@ -66,6 +66,7 @@
 <tr><td><img src="skins/skin_Nonbinary.png" width="300" /></td><td>Nonbinary</td><td><img src="skins/models/model_Default_Nonbinary.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Nonbinary.png" width="300" /></td><td><img src="skins/models/model_Highland_Nonbinary.png" width="300" /></td><td><img src="skins/models/model_Tall_Nonbinary.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Nonbinary.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Orange.png" width="300" /></td><td>Orange</td><td><img src="skins/models/model_Default_Orange.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Orange.png" width="300" /></td><td><img src="skins/models/model_Highland_Orange.png" width="300" /></td><td><img src="skins/models/model_Tall_Orange.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Orange.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Pan.png" width="300" /></td><td>Pan</td><td><img src="skins/models/model_Default_Pan.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Pan.png" width="300" /></td><td><img src="skins/models/model_Highland_Pan.png" width="300" /></td><td><img src="skins/models/model_Tall_Pan.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Pan.png" width="300" /></td></tr>
+<tr><td><img src="skins/skin_Pastel_Fairy.png" width="300" /></td><td>Pastel Fairy</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
 <tr><td><img src="skins/skin_Pear.png" width="300" /></td><td>Pear</td><td><img src="skins/models/model_Default_Pear.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Pear.png" width="300" /></td><td><img src="skins/models/model_Highland_Pear.png" width="300" /></td><td><img src="skins/models/model_Tall_Pear.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Pear.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Peppermint.png" width="300" /></td><td>Peppermint</td><td><img src="skins/models/model_Default_Peppermint.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Peppermint.png" width="300" /></td><td><img src="skins/models/model_Highland_Peppermint.png" width="300" /></td><td><img src="skins/models/model_Tall_Peppermint.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Peppermint.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Pinecone.png" width="300" /></td><td>Pinecone</td><td><img src="skins/models/model_Default_Pinecone.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Pinecone.png" width="300" /></td><td><img src="skins/models/model_Highland_Pinecone.png" width="300" /></td><td><img src="skins/models/model_Tall_Pinecone.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Pinecone.png" width="300" /></td></tr>
@@ -81,6 +82,7 @@
 <tr><td><img src="skins/skin_Soy_Sauce.png" width="300" /></td><td>Soy Sauce</td><td><img src="skins/models/model_Default_Soy_Sauce.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Soy_Sauce.png" width="300" /></td><td><img src="skins/models/model_Highland_Soy_Sauce.png" width="300" /></td><td><img src="skins/models/model_Tall_Soy_Sauce.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Soy_Sauce.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Strawberry.png" width="300" /></td><td>Strawberry</td><td><img src="skins/models/model_Default_Strawberry.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Strawberry.png" width="300" /></td><td><img src="skins/models/model_Highland_Strawberry.png" width="300" /></td><td><img src="skins/models/model_Tall_Strawberry.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Strawberry.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Strawberry_(Legacy).png" width="300" /></td><td>Strawberry (Legacy)</td><td><img src="skins/models/model_Default_Strawberry_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Strawberry_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Highland_Strawberry_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Tall_Strawberry_(Legacy).png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Strawberry_(Legacy).png" width="300" /></td></tr>
+<tr><td><img src="skins/skin_Sunflower_Fairy.png" width="300" /></td><td>Sunflower Fairy</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
 <tr><td><img src="skins/skin_TBH.png" width="300" /></td><td>TBH</td><td><img src="skins/models/model_TBH.png" width="300" /></td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
 <tr><td><img src="skins/skin_Tiramisu.png" width="300" /></td><td>Tiramisu</td><td><img src="skins/models/model_Default_Tiramisu.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Tiramisu.png" width="300" /></td><td><img src="skins/models/model_Highland_Tiramisu.png" width="300" /></td><td><img src="skins/models/model_Tall_Tiramisu.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Tiramisu.png" width="300" /></td></tr>
 <tr><td><img src="skins/skin_Tomato.png" width="300" /></td><td>Tomato</td><td><img src="skins/models/model_Default_Tomato.png" width="300" /></td><td><img src="skins/models/model_Semi-Fluff_Tomato.png" width="300" /></td><td><img src="skins/models/model_Highland_Tomato.png" width="300" /></td><td><img src="skins/models/model_Tall_Tomato.png" width="300" /></td><td><img src="skins/models/model_Tall_Semi-Fluff_Tomato.png" width="300" /></td></tr>
@@ -140,6 +142,7 @@
 <tr><td><img src="accessories/acc_Default_Pack.png" width="150" /></td><td>Default Pack</td></tr>
 <tr><td><img src="accessories/acc_Demon_Wings.png" width="150" /></td><td>Demon Wings</td></tr>
 <tr><td><img src="accessories/acc_Devil_Horns.png" width="150" /></td><td>Devil Horns</td></tr>
+<tr><td><img src="accessories/acc_Dorky_Pack.png" width="150" /></td><td>Dorky Pack</td></tr>
 <tr><td><img src="accessories/acc_Dropped_Eye.png" width="150" /></td><td>Dropped Eye</td></tr>
 <tr><td><img src="accessories/acc_Easter_Lily_Head.png" width="150" /></td><td>Easter Lily Head</td></tr>
 <tr><td><img src="accessories/acc_Easter_Lily_Mouth.png" width="150" /></td><td>Easter Lily Mouth</td></tr>
@@ -279,29 +282,44 @@
 <tr><td><img src="items/item_Apple.png" width="150" /></td><td>Apple</td></tr>
 <tr><td><img src="items/item_Ash.png" width="150" /></td><td>Ash</td></tr>
 <tr><td><img src="items/item_Axe.png" width="150" /></td><td>Axe</td></tr>
+<tr><td><img src="items/item_Basic_Groundbait.png" width="150" /></td><td>Basic Groundbait</td></tr>
 <tr><td><img src="items/item_Basket.png" width="150" /></td><td>Basket</td></tr>
+<tr><td><img src="items/item_Beetroot.png" width="150" /></td><td>Beetroot</td></tr>
+<tr><td><img src="items/item_Beetroot_Seed_Pouch.png" width="150" /></td><td>Beetroot Seed Pouch</td></tr>
 <tr><td><img src="items/item_Blackberry.png" width="150" /></td><td>Blackberry</td></tr>
 <tr><td><img src="items/item_Blueberry.png" width="150" /></td><td>Blueberry</td></tr>
 <tr><td><img src="items/item_Bucket.png" width="150" /></td><td>Bucket</td></tr>
+<tr><td><img src="items/item_Carrot.png" width="150" /></td><td>Carrot</td></tr>
+<tr><td><img src="items/item_Carrot_Seed_Pouch.png" width="150" /></td><td>Carrot Seed Pouch</td></tr>
+<tr><td><img src="items/item_Cauliflower.png" width="150" /></td><td>Cauliflower</td></tr>
+<tr><td><img src="items/item_Cauliflower_Seed_Pouch.png" width="150" /></td><td>Cauliflower Seed Pouch</td></tr>
 <tr><td><img src="items/item_Chamomile.png" width="150" /></td><td>Chamomile</td></tr>
 <tr><td><img src="items/item_Chanterelle.png" width="150" /></td><td>Chanterelle</td></tr>
 <tr><td><img src="items/item_Cloudberry.png" width="150" /></td><td>Cloudberry</td></tr>
+<tr><td><img src="items/item_Cloudstone.png" width="150" /></td><td>Cloudstone</td></tr>
 <tr><td><img src="items/item_Cobweb.png" width="150" /></td><td>Cobweb</td></tr>
 <tr><td><img src="items/item_Cranberry.png" width="150" /></td><td>Cranberry</td></tr>
 <tr><td><img src="items/item_Creamy_Dandelion_Soup.png" width="150" /></td><td>Creamy Dandelion Soup</td></tr>
 <tr><td><img src="items/item_Dandelion.png" width="150" /></td><td>Dandelion</td></tr>
 <tr><td><img src="items/item_Elderberry.png" width="150" /></td><td>Elderberry</td></tr>
+<tr><td><img src="items/item_Fish_Callus.png" width="150" /></td><td>Fish Callus</td></tr>
+<tr><td><img src="items/item_Fish_Scale.png" width="150" /></td><td>Fish Scale</td></tr>
+<tr><td><img src="items/item_Fishing_Rod.png" width="150" /></td><td>Fishing Rod</td></tr>
 <tr><td><img src="items/item_Floral_Bar.png" width="150" /></td><td>Floral Bar</td></tr>
 <tr><td><img src="items/item_Four-Leaf_Clover.png" width="150" /></td><td>Four-Leaf Clover</td></tr>
 <tr><td><img src="items/item_Ginger.png" width="150" /></td><td>Ginger</td></tr>
 <tr><td><img src="items/item_Healing_Gum.png" width="150" /></td><td>Healing Gum</td></tr>
 <tr><td><img src="items/item_Healing_Ointment.png" width="150" /></td><td>Healing Ointment</td></tr>
 <tr><td><img src="items/item_Healing_Tea.png" width="150" /></td><td>Healing Tea</td></tr>
+<tr><td><img src="items/item_Home_Key.png" width="150" /></td><td>Home Key</td></tr>
 <tr><td><img src="items/item_Honey_Glazed_Gold.png" width="150" /></td><td>Honey Glazed Gold</td></tr>
 <tr><td><img src="items/item_Honey_Jar.png" width="150" /></td><td>Honey Jar</td></tr>
 <tr><td><img src="items/item_Knife.png" width="150" /></td><td>Knife</td></tr>
 <tr><td><img src="items/item_Lantern.png" width="150" /></td><td>Lantern</td></tr>
+<tr><td><img src="items/item_Lettuce.png" width="150" /></td><td>Lettuce</td></tr>
+<tr><td><img src="items/item_Lettuce_Seed_Pouch.png" width="150" /></td><td>Lettuce Seed Pouch</td></tr>
 <tr><td><img src="items/item_Linseed.png" width="150" /></td><td>Linseed</td></tr>
+<tr><td><img src="items/item_Maggot.png" width="150" /></td><td>Maggot</td></tr>
 <tr><td><img src="items/item_Metal_Ore.png" width="150" /></td><td>Metal Ore</td></tr>
 <tr><td><img src="items/item_Milk_Thistle.png" width="150" /></td><td>Milk Thistle</td></tr>
 <tr><td><img src="items/item_Mint.png" width="150" /></td><td>Mint</td></tr>
@@ -313,9 +331,15 @@
 <tr><td><img src="items/item_Nettle.png" width="150" /></td><td>Nettle</td></tr>
 <tr><td><img src="items/item_Nettle_Soup.png" width="150" /></td><td>Nettle Soup</td></tr>
 <tr><td><img src="items/item_Oil_Flask.png" width="150" /></td><td>Oil Flask</td></tr>
+<tr><td><img src="items/item_Onion.png" width="150" /></td><td>Onion</td></tr>
+<tr><td><img src="items/item_Onion_Seed_Pouch.png" width="150" /></td><td>Onion Seed Pouch</td></tr>
 <tr><td><img src="items/item_Pickaxe.png" width="150" /></td><td>Pickaxe</td></tr>
+<tr><td><img src="items/item_Potato.png" width="150" /></td><td>Potato</td></tr>
+<tr><td><img src="items/item_Potato_Seed_Pouch.png" width="150" /></td><td>Potato Seed Pouch</td></tr>
 <tr><td><img src="items/item_Puff_Steak.png" width="150" /></td><td>Puff Steak</td></tr>
 <tr><td><img src="items/item_Puffball.png" width="150" /></td><td>Puffball</td></tr>
+<tr><td><img src="items/item_Radish.png" width="150" /></td><td>Radish</td></tr>
+<tr><td><img src="items/item_Radish_Seed_Pouch.png" width="150" /></td><td>Radish Seed Pouch</td></tr>
 <tr><td><img src="items/item_Raspberry.png" width="150" /></td><td>Raspberry</td></tr>
 <tr><td><img src="items/item_Red_Currant.png" width="150" /></td><td>Red Currant</td></tr>
 <tr><td><img src="items/item_Rock_Block.png" width="150" /></td><td>Rock Block</td></tr>
@@ -327,9 +351,12 @@
 <tr><td><img src="items/item_Soapwort.png" width="150" /></td><td>Soapwort</td></tr>
 <tr><td><img src="items/item_Splitgill.png" width="150" /></td><td>Splitgill</td></tr>
 <tr><td><img src="items/item_Stick.png" width="150" /></td><td>Stick</td></tr>
+<tr><td><img src="items/item_Sticky_Slime.png" width="150" /></td><td>Sticky Slime</td></tr>
 <tr><td><img src="items/item_Stone_Carving_Kit.png" width="150" /></td><td>Stone Carving Kit</td></tr>
 <tr><td><img src="items/item_Strawberry.png" width="150" /></td><td>Strawberry</td></tr>
 <tr><td><img src="items/item_Sun_Berry_Goop.png" width="150" /></td><td>Sun Berry Goop</td></tr>
+<tr><td><img src="items/item_Testplant.png" width="150" /></td><td>Testplant</td></tr>
+<tr><td><img src="items/item_Testplant_Seed.png" width="150" /></td><td>Testplant Seed</td></tr>
 <tr><td><img src="items/item_Water_Bucket.png" width="150" /></td><td>Water Bucket</td></tr>
 <tr><td><img src="items/item_Waystone_Wand.png" width="150" /></td><td>Waystone Wand</td></tr>
 <tr><td><img src="items/item_White_Currant.png" width="150" /></td><td>White Currant</td></tr>

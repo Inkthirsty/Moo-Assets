@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tools · Moo Assets</title>
+<style>
+body { margin: 0; font-family: system-ui, sans-serif; background: #111; color: #eee; }
+header { display: flex; gap: 16px; align-items: center; padding: 12px 16px; background: #1b1b1b; position: sticky; top: 0; }
+header a { color: #fff; font-weight: bold; text-decoration: none; }
+header input { flex: 1; max-width: 360px; padding: 8px; border-radius: 6px; border: 1px solid #333; background: #222; color: #eee; }
+main { padding: 16px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
+.card { background: #1b1b1b; border-radius: 8px; padding: 10px; text-align: center; }
+.card img { width: 100%; height: auto; image-rendering: auto; }
+.card h3 { font-size: 14px; margin: 8px 0 0; font-weight: 600; }
+.skin { grid-column: 1 / -1; display: grid; grid-template-columns: 120px 1fr; gap: 12px; align-items: center; text-align: left; }
+.skin .icon img { width: 120px; }
+.renders { display: flex; gap: 8px; overflow-x: auto; }
+.renders figure { margin: 0; min-width: 120px; text-align: center; font-size: 12px; }
+.renders img { width: 120px; height: auto; }
+.missing { color: #666; font-size: 12px; min-width: 120px; padding-top: 40px; }
+.index-links { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.index-links a { display: block; background: #1b1b1b; border-radius: 8px; padding: 16px; color: #fff; text-decoration: none; }
+.index-links span { color: #888; font-size: 13px; }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<header>
+<a href="index.html">Moo Assets</a>
+<input id="search" type="search" placeholder="Search" autocomplete="off">
+</header>
+<main>
+<h1>Tools</h1>
+<div class="grid"><div class="card" data-name="axe"><img src="items/item_Axe.png" alt="Axe" loading="lazy" width="150"><h3>Axe</h3></div><div class="card" data-name="basket"><img src="items/item_Basket.png" alt="Basket" loading="lazy" width="150"><h3>Basket</h3></div><div class="card" data-name="fishing rod"><img src="items/item_Fishing_Rod.png" alt="Fishing Rod" loading="lazy" width="150"><h3>Fishing Rod</h3></div><div class="card" data-name="home key"><img src="items/item_Home_Key.png" alt="Home Key" loading="lazy" width="150"><h3>Home Key</h3></div><div class="card" data-name="lantern"><img src="items/item_Lantern.png" alt="Lantern" loading="lazy" width="150"><h3>Lantern</h3></div><div class="card" data-name="pickaxe"><img src="items/item_Pickaxe.png" alt="Pickaxe" loading="lazy" width="150"><h3>Pickaxe</h3></div><div class="card" data-name="seed pouch"><img src="items/item_Seed_Pouch.png" alt="Seed Pouch" loading="lazy" width="150"><h3>Seed Pouch</h3></div><div class="card" data-name="stone carving kit"><img src="items/item_Stone_Carving_Kit.png" alt="Stone Carving Kit" loading="lazy" width="150"><h3>Stone Carving Kit</h3></div><div class="card" data-name="waystone wand"><img src="items/item_Waystone_Wand.png" alt="Waystone Wand" loading="lazy" width="150"><h3>Waystone Wand</h3></div><div class="card" data-name="wood carving kit"><img src="items/item_Wood_Carving_Kit.png" alt="Wood Carving Kit" loading="lazy" width="150"><h3>Wood Carving Kit</h3></div></div>
+</main>
+<script>
+const search = document.getElementById("search");
+if (search) {
+	search.addEventListener("input", () => {
+		const query = search.value.trim().toLowerCase();
+		document.querySelectorAll("[data-name]").forEach(el => {
+			el.hidden = !el.dataset.name.includes(query);
+		});
+	});
+}
+</script>
+</body>
+</html>

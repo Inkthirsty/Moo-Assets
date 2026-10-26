@@ -17,10 +17,10 @@ h2 { border-bottom: 1px solid #444; padding-bottom: 6px; }
 .card { border: 1px solid #444; border-radius: 8px; padding: 10px; background: #161616; width: 150px; box-sizing: border-box; }
 .skin { display: flex; gap: 12px; border: 1px solid #444; border-radius: 8px; padding: 10px; background: #161616; margin-bottom: 12px; }
 .skin-icon { width: 150px; flex: none; }
-.variants { display: grid; grid-template-columns: repeat(auto-fill, 150px); gap: 12px; align-content: start; }
-.variant { margin: 0; }
+.variants { display: flex; flex-wrap: wrap; gap: 12px; flex: 1; align-content: flex-start; }
+.variant { margin: 0; width: 150px; }
 .variant figcaption { margin-top: 6px; font-size: 13px; text-align: center; }
-.square { width: 100%; aspect-ratio: 1 / 1; display: flex; align-items: center; justify-content: center; background: #1b1b1b; border: 1px solid #333; border-radius: 6px; overflow: hidden; box-sizing: border-box; }
+.square { width: 100%; aspect-ratio: 2 / 3;display: flex; align-items: center; justify-content: center; background: #1b1b1b; border: 1px solid #333; border-radius: 6px; overflow: hidden; box-sizing: border-box; }
 .square img { width: 100%; height: 100%; object-fit: contain; }
 .name { margin-top: 8px; height: 2.8em; line-height: 1.4em; display: flex; align-items: center; justify-content: center; text-align: center; overflow: hidden; font-size: 14px; }
 .missing { color: #666; font-size: 12px; }
